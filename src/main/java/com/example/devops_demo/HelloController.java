@@ -12,7 +12,7 @@ public class HelloController {
         Calc calc = new Calc();
         long result = calc.add(10, 20);
 
-        return "Welcome to Simple Ecommerce ver 1.0 -> 10 + 20 = " + result + "";
+        return "Welcome to Simple Ecommerce ver 3.0 -> 10 + 20 = " + result + "";
     }
 
 }
